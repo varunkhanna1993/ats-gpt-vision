@@ -2,4 +2,3 @@ streamlit
 python-dotenv
 pdf2image
 openai
-python-dotenv

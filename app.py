@@ -1,6 +1,6 @@
-import base64
+import base64 as base64
 import streamlit as st
-import io
+import io as io
 from PIL import Image
 import pdf2image
 import os
